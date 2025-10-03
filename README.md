@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Mehmood 
 
-🎓 I’m a student of **E-Commerce** and currently learning **Web Development**.  
+🎓 I’m a student of **E-Com(IT)** and currently learning **Web Development**.  
 💻 Passionate about technology, digital business, and building modern web applications.  
 🚀 My goal is to combine business knowledge with tech skills to create impactful online solutions.  
 
