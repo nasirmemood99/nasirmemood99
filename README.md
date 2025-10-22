@@ -19,8 +19,7 @@
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code Logo](https://code.visualstudio.com/assets/images/code-stable.png)
-
+![![Made with VS Code](https://img.shields.io/badge/Made%20with-VS%20Code-0078d7.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
 ---
 ## 📚 Current Focus
 
