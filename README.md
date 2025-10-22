@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Mehmood 
 
-🎓 I’m a student of **E-Com(IT)** and currently learning **Web Development**.  
+🎓 I’m a student of **E-Com(IT)** and currently learning **Full stack Web Development**.  
 💻 Passionate about technology, digital business, and building modern web applications.  
 🚀 My goal is to combine business knowledge with tech skills to create impactful online solutions.  
 
@@ -19,6 +19,7 @@
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS code](https://img.shields.io/badge/vs code-F05032?style=for-the-badge&logo=vs code&logoColor=white)  
 
 ---
 
