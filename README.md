@@ -19,8 +19,7 @@
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-[![VS Code Logo](https://code.visualstudio.com/assets/images/code-stable.png)](https://code.visualstudio.com/)
----
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="40">
 ## 📚 Current Focus
 
 - Strengthening fundamentals of web development  
